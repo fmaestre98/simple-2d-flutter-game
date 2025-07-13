@@ -1,6 +1,6 @@
 # simple_flutter_game
 
-Simple 2D game with flutter
+Simple 2D game with flutter (google developer codelab)
 
 ## Getting Started
 
